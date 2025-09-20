@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Todo List</h1>
+        </div>
+
+        <div class="add-task">
+            <div class="input-group">
+                <input type="text" id="taskInput" placeholder="What do you need to do?" maxlength="80">
+                <button class="add-btn" onclick="addTask()">Add</button>
+            </div>
+        </div>
+
+        <div class="tasks" id="taskList">
+            <div class="empty">
+                <div class="empty-icon">📝</div>
+                <h3>No tasks yet</h3>
+                <p>Add a task above to get started</p>
+            </div>
+        </div>
+
+        <div class="stats" id="stats" style="display: none;">
+            <div>Total: <strong id="totalCount">0</strong></div>
+            <div>Completed: <strong id="completedCount">0</strong></div>
+            <div>Remaining: <strong id="remainingCount">0</strong></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
