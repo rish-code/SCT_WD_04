@@ -1,5 +1,5 @@
-#Task Management Tool
-##A clean, minimal task management tool built with HTML, CSS, and JavaScript. Features one-click task addition, instant completion toggle, hover-to-delete functionality, and basic progress stats.
+# Task Management Tool
+## A clean, minimal task management tool built with HTML, CSS, and JavaScript. Features one-click task addition, instant completion toggle, hover-to-delete functionality, and basic progress stats.
 ✨ Features
 
 Quick Task Entry: Add tasks with one click
