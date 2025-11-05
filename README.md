@@ -52,3 +52,9 @@ Event Handling: Click, hover, and keyboard events
 
 📱 Browser Support
 Works on all modern browsers: Chrome, Firefox, Safari, Edge, and mobile browsers.
+
+## 👨‍💻 Author
+
+Rishabh Kumar
+🎓 CSE Student | 💼 Intern at Unified Mentor
+📧 Email: rishabhdhoni9694@gmail.com
